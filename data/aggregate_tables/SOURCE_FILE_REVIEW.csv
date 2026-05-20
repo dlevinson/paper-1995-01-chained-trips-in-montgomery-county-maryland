@@ -1,0 +1,23 @@
+source_relative_path,decision,reason,size_bytes,sha256
+CHAIN.123,excluded_subsumed,Table 1-only spreadsheet; subset of retained DOS/CHAIN.WK1.,8747,83a9064e4c4312da88c0a39ed4ce9546aac2b16a943e2f26608847ccaf8af8c3
+CHAIN.xls,excluded_subsumed,Excel Table 1-only spreadsheet; subset of retained DOS/CHAIN.WK1.,17408,140ad5a2b95c7812e50aa6d2c6a0d54146bd06fb5e93545d0c2aac7b730d07c7
+CHAINS.asc,excluded_manuscript,"ASCII manuscript/submission copy, not data or code.",18272,2ebc62f5232e864d99c7b4b616ef5339af782dc9db64e18ac054716e22ef64c6
+CHAINS.doc,excluded_manuscript,"Word manuscript draft, not data or code.",27136,9cda037393aabaa2909ea2a968421ac18055f9c8e7ce6b1110be1b2b2dae779c
+DOS/CHAIN,excluded_manuscript,"WordPerfect manuscript draft, not data or code.",30809,145ac69c31bd7a74b38f9fa2434fa47af8c828f248d26b6c24ea0f4fa0cfaf0a
+DOS/CHAIN.WK1,included,Canonical aggregate workbook containing the paper tables 1-5; staged as original legacy workbook plus xlsx/csv sidecars.,8434,4146c4ed187f8ff0d41a903d06579d318d1c543e30821d131cc25f7a7b55d7d2
+DOS/PANEL,excluded_other_paper_or_survey,"WordPerfect preliminary panel survey document, not this paper's MWCOG chained-trips package.",16179,118898fc4dce079b1bf4881eb09bc3eb2c4765b9c99d79f018542d0760fa9ee8
+DOS/PANEL.WK1,excluded_other_paper_or_survey,"Panel-survey summary workbook, not the chained-trips paper aggregate table workbook.",30326,844d3b93db5dffd2baa8b93e5dee263cc2ce65f70f679ab0197cf1d21d0b3acd
+DOS/PAPER1,excluded_other_paper,Draft of a different 1968/1988 travel-survey comparison paper.,32046,13d0cb9b9ff8bba7234931cb8d75177260b30c1f556295d9010bc3f9730d61e1
+DOS/PAPER2,excluded_other_paper,Draft of a different 1968/1988 travel-survey comparison paper.,43380,8b0cfb675f18f9bd279a90d2364da93afc4d50055f9f71273d69a7e2106ec226
+DOS/PAPER3,excluded_other_paper,Draft of a different paper on metropolitan structure and travel behavior.,35989,0c9d8e7f96d93c0978fc1d598bb2555b345d18f1f7ba2181df89b8e583adc7ce
+DOS/SURVEY,excluded_other_paper_or_survey,"Panel survey questionnaire/cover material, not data/code for this paper.",8169,b888e0ce477fcef081d03901afeee98c5ddd25ef4f4c9caf3a7c476c34b1bfe0
+DOS/TRIPCHN.WP5,excluded_manuscript,"WordPerfect manuscript draft, not data or code.",31855,646520e0c1581b103d261862f9a4c655135dfa52682fbfafeb7a0d6e5fc370fe
+ITELETTER.1.20.95,excluded_correspondence,"Letter to ITE Journal editor, not paper/data/code.",3584,9324e2eda6ba2d168e4ce9c03d7f0a126bfd312563d2444edf28d502fcf92fb0
+ITELETTER.12.26.94,excluded_correspondence,"Letter to ITE Journal editor, not paper/data/code.",3072,a3f6e931c79b1fad76ad72c7cdcc5b0ec1891384e2ac0e08f04d99717816244a
+ITELETTER.7.24.94,excluded_correspondence,"Letter to ITE Journal editor, not paper/data/code.",2560,43cca7b3ad84ddc0dc13c599108fed773d20a1f996f1cf7cc36af129f5736b98
+ITE_DRAFT/CHAINS.MSW copy,excluded_manuscript,"Mac Word manuscript draft, not data or code.",27648,43ab05085ff05ac2f8b8e07456c03469c5dd030e87826f6160d61ee19718e88c
+TR_DRAFT/CHAIN.123 copy,excluded_duplicate,Draft-folder duplicate of retained DOS/CHAIN.WK1.,7423,0139240a39e409d74b806671715519fd21f2018b1ac85b03915631995355fc62
+TR_DRAFT/CHAINS.MSW copy,excluded_manuscript,"Mac Word manuscript draft, not data or code.",32256,465b69187df2de77a22e9807c216b9fd74968149ead1b8d9a42ce3df5e29d182
+biosketch,excluded_admin,"Author biosketch, not paper/data/code.",2560,dcbbd61a073dd71fca0d504e06d1dacf7c368fce012e75e8fdb0eae22affdbac
+doc-chains.pdf,excluded_manuscript,Local draft/submission PDF; final reference paper is kept separately under paper/.,51194,1f79a9dfffe83fd1cb34b8c6b412c96cee18aad45e3577d433778ca63aeb96a6
+map-label,excluded_admin,"Figure label working note, not data/code.",2048,88b447d508ed089995261529fcd92120a0b87c00544b16a5ec3b93722b4f16ae
