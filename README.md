@@ -1,5 +1,9 @@
 # Chained Trips In Montgomery County, Maryland
 
+## Contribution
+
+This paper provides detailed metropolitan evidence on how commuters combine work and nonwork activities into trip chains. Using the 1987–88 Washington household travel survey, it shows that chaining varies systematically with gender, travel mode, commuting distance, and metropolitan location, helping explain the increasingly complex travel patterns of multiworker suburban households.
+
 ## Bibliographic Information
 
 - Row ID: `paper-1995-01`
