@@ -1,6 +1,6 @@
 # Package Status: Chained Trips In Montgomery County, Maryland
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-07-01 AEST
 
 ## Audit State
 
@@ -11,6 +11,7 @@ Generated: 2026-05-20 15:23:47 AEST
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
 - Human subjects status: `no`
+- Repository license: CC BY 4.0 for repository-created documentation and derived data; paper PDF and shared FORTRAN sources retained under original terms
 - Bibliographic citation: Kumar, Ajay, and David M. Levinson. (1995). "Chained Trips in Montgomery County, Maryland." ITE Journal, May 1995, 27-32. https://hdl.handle.net/11299/179853
 
 ## Package Checks

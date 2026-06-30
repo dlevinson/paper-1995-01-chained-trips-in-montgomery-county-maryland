@@ -1,13 +1,12 @@
 # License Status: Chained Trips In Montgomery County, Maryland
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-07-01 AEST
 
-Recorded license/access note from the verified audit row: Public source-data and repository terms apply; local aggregate workbook/code release needs repository-level provenance/license wording.
+Recorded license/access note from the verified audit row: Repository license now covers author-created documentation and derived data as CC BY 4.0; the paper PDF and shared FORTRAN source bundles retain original terms.
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+Before public GitHub upload, keep the boundary explicit. Do not license third-party raw data or publisher PDFs.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
 - Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
 - Third-party raw data and publisher PDFs are not relicensed here.
